@@ -10,7 +10,7 @@ List Of Member:
       2.NGUYEN DUY THANH (Student1295179)
       3.TANG TRUONG THAI (Student1295176)
  ======================================= 
-Documentations: https://github.com/Thanh86/Symplons_BeautyCare_Group05_FinalSubmit.git
+Documentations:https://github.com/Thanh86/Symplons_BeautyCare_Group05_FinalSubmit.git
 ======================================= 
 Published website :https://thanh86.github.io/Symplons_BeautyCare_Group05_FinalSubmit/
 ======================================= 
